@@ -6,4 +6,3 @@ verdadero = True  # Dato tipo Booleano
 falso = False # Dato tipo Booleano
 
 
-print(variable)
